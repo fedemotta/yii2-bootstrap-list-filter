@@ -1,0 +1,21 @@
+{
+    "name": "fedemotta/yii2-bootstrap-list-filter",
+    "description": "Bootstap list filter widget for Yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","bootstrap","search","list","filter"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Federico Nicolás Motta",
+            "email": "fedemotta@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "fedemotta\\bootstraplistfilter\\": ""
+        }
+    }
+}
