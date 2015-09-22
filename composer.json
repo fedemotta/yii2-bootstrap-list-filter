@@ -11,11 +11,18 @@
         }
     ],
     "require": {
-        "yiisoft/yii2": "*"
+        "yiisoft/yii2": "*",
+        "yiisoft/yii2-bootstrap": "*",
+        "bower-asset/bootstrap-list-filter":"*"
     },
     "autoload": {
         "psr-4": {
             "fedemotta\\bootstraplistfilter\\": ""
+        }
+    },
+    "extra": {
+        "asset-installer-paths": {
+            "bower-asset-library": "vendor/bower"
         }
     }
 }
