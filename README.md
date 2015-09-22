@@ -26,7 +26,7 @@ Usage
 -----
 
 Once the extension is installed, simply use it in your code by  :
-```
+```php
 <form role="form">
     <div class="form-group">
     <?=\fedemotta\bootstraplistfilter\BootstrapListFilter::widget(['list_selector'=>'#searchlist','options'=>['class'=>'form-control', 'placeholder'=>'Search...'], 'clientOptions'=>['itemChild'=>'span']]); ?>
