@@ -2,6 +2,8 @@ Yii2 bootstrap list filter
 ==========================
 [Bootstrap list filter](https://github.com/stefanocudini/bootstrap-list-filter) widget for Yii2
 
+[![Latest Stable Version](https://poser.pugx.org/fedemotta/yii2-bootstrap-list-filter/v/stable)](https://packagist.org/packages/fedemotta/yii2-bootstrap-list-filter) [![Total Downloads](https://poser.pugx.org/fedemotta/yii2-bootstrap-list-filter/downloads)](https://packagist.org/packages/fedemotta/yii2-bootstrap-list-filter) [![Latest Unstable Version](https://poser.pugx.org/fedemotta/yii2-bootstrap-list-filter/v/unstable)](https://packagist.org/packages/fedemotta/yii2-bootstrap-list-filter) [![License](https://poser.pugx.org/fedemotta/yii2-bootstrap-list-filter/license)](https://packagist.org/packages/fedemotta/yii2-bootstrap-list-filter)
+
 Installation
 ------------
 
