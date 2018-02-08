@@ -21,6 +21,7 @@ class BootstrapListFilterAsset extends AssetBundle
     ];
 
     public $depends = [
+        'yii\web\JqueryAsset',
         'yii\bootstrap\BootstrapAsset',
     ];
 }
